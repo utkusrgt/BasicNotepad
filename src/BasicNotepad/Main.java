@@ -16,8 +16,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int option;
         while(true){
-        System.out.println("1 : Writer ");
-        System.out.println("2 : Reader ");
+        System.out.println("1 : Write ");
+        System.out.println("2 : Read ");
         System.out.println("3 : Exit ");
 
         System.out.print("Chose : ");
